@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Jemal 👋
 
-<!--
-**necatieruzun/necatieruzun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PNPT-certified junior cybersecurity professional based in Los Angeles.
 
-Here are some ideas to get you started:
+I am focused on penetration testing, Active Directory security, and vulnerability assessment. I enjoy learning through hands-on labs and practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Network and web application penetration testing
+- Active Directory security
+- Vulnerability assessment and reporting
+- Basic Python
+
+## Tools
+
+Burp Suite, Nmap, Metasploit, SQLmap, Nikto, Hashcat, and John the Ripper
+
+## Currently Working On
+
+- Building practical cybersecurity projects
+- Improving my Python skills
+- Preparing for the OSCP
