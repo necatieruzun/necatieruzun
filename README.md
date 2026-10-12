@@ -1,4 +1,4 @@
-# Hi, I'm Jemal 👋
+# Hi, I'm Necati 👋
 
 PNPT-certified junior cybersecurity professional based in Los Angeles.
 
